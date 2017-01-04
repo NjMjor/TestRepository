@@ -2,5 +2,6 @@
 
 int main()
 {
+	std::cout << "Kappa";
 	std::cout << "Banana";
 }
